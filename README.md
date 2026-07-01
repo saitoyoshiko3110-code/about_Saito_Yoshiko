@@ -18,5 +18,10 @@ I have been working in the following areas:
 - **Web Development**: HTML/CSS coding (Responsive design), WordPress original theme creation, custom development, and configuration.
 - **Video Editing**: Editing and production using Adobe Premiere Pro.
 
+HTML/CSS (Flexbox, Grid)
+WordPress (ACF, Custom Post Types)
+PHP, JavaScript, jQuery
+Studying: React
+
 I am passionate about creating clean, efficient code and delivering high-quality web experiences. Thank you for visiting my profile!
 
